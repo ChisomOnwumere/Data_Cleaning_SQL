@@ -1,6 +1,5 @@
 # Data_Cleaning_SQL
 Data cleaning with SQL
-# Data Cleaning SQL
 
 This project demonstrates the process of cleaning and transforming data stored in a SQL Server database using SQL queries.
 
